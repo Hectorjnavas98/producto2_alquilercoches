@@ -14,7 +14,11 @@
 	--shadow-form: rgba(54, 229, 23, 0.075);
 	--color-subtle: rgb(128, 128, 128);
 }
- 
+
+ * {
+    font-family: 'Aldrich';
+ }
+
 .menu-bar {
 	background-color: var(--bgcolor-menu);
 	color:var(--color-menu)!important;
